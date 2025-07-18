@@ -1,4 +1,4 @@
-# Urban-sounds-classification-with-Convolutional-Neural-Networks
+# Urban sounds classification with Convolutional Neural Networks
 
 The objective of this project is to implement CNN models to recognize sound events from the **UrbanSound9K** dataset. The work has been divided into the following notebooks:
 
